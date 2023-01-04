@@ -1,0 +1,12 @@
+C:\Users\filipec.SPI\source\repos\pu9999\Camada.Domain\obj\Debug\net5.0\Camada.Domain.csproj.AssemblyReference.cache
+C:\Users\filipec.SPI\source\repos\pu9999\Camada.Domain\obj\Debug\net5.0\Camada.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filipec.SPI\source\repos\pu9999\Camada.Domain\obj\Debug\net5.0\Camada.Domain.AssemblyInfoInputs.cache
+C:\Users\filipec.SPI\source\repos\pu9999\Camada.Domain\obj\Debug\net5.0\Camada.Domain.AssemblyInfo.cs
+C:\Users\filipec.SPI\source\repos\pu9999\Camada.Domain\obj\Debug\net5.0\Camada.Domain.csproj.CoreCompileInputs.cache
+C:\Users\filipec.SPI\source\repos\pu9999\Camada.Domain\bin\Debug\net5.0\Camada.Domain.deps.json
+C:\Users\filipec.SPI\source\repos\pu9999\Camada.Domain\bin\Debug\net5.0\Camada.Domain.dll
+C:\Users\filipec.SPI\source\repos\pu9999\Camada.Domain\bin\Debug\net5.0\Camada.Domain.pdb
+C:\Users\filipec.SPI\source\repos\pu9999\Camada.Domain\obj\Debug\net5.0\Camada.Domain.dll
+C:\Users\filipec.SPI\source\repos\pu9999\Camada.Domain\obj\Debug\net5.0\refint\Camada.Domain.dll
+C:\Users\filipec.SPI\source\repos\pu9999\Camada.Domain\obj\Debug\net5.0\Camada.Domain.pdb
+C:\Users\filipec.SPI\source\repos\pu9999\Camada.Domain\obj\Debug\net5.0\ref\Camada.Domain.dll

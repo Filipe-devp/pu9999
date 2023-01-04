@@ -1,0 +1,15 @@
+C:\Users\filipec.SPI\source\repos\pu9999\Camada.InfraStructure\bin\Debug\net5.0\Camada.InfraStructure.deps.json
+C:\Users\filipec.SPI\source\repos\pu9999\Camada.InfraStructure\bin\Debug\net5.0\Camada.InfraStructure.dll
+C:\Users\filipec.SPI\source\repos\pu9999\Camada.InfraStructure\bin\Debug\net5.0\Camada.InfraStructure.pdb
+C:\Users\filipec.SPI\source\repos\pu9999\Camada.InfraStructure\bin\Debug\net5.0\Camada.Domain.dll
+C:\Users\filipec.SPI\source\repos\pu9999\Camada.InfraStructure\bin\Debug\net5.0\Camada.Domain.pdb
+C:\Users\filipec.SPI\source\repos\pu9999\Camada.InfraStructure\obj\Debug\net5.0\Camada.InfraStructure.csproj.AssemblyReference.cache
+C:\Users\filipec.SPI\source\repos\pu9999\Camada.InfraStructure\obj\Debug\net5.0\Camada.InfraStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filipec.SPI\source\repos\pu9999\Camada.InfraStructure\obj\Debug\net5.0\Camada.InfraStructure.AssemblyInfoInputs.cache
+C:\Users\filipec.SPI\source\repos\pu9999\Camada.InfraStructure\obj\Debug\net5.0\Camada.InfraStructure.AssemblyInfo.cs
+C:\Users\filipec.SPI\source\repos\pu9999\Camada.InfraStructure\obj\Debug\net5.0\Camada.InfraStructure.csproj.CoreCompileInputs.cache
+C:\Users\filipec.SPI\source\repos\pu9999\Camada.InfraStructure\obj\Debug\net5.0\Camada.InfraStructure.csproj.CopyComplete
+C:\Users\filipec.SPI\source\repos\pu9999\Camada.InfraStructure\obj\Debug\net5.0\Camada.InfraStructure.dll
+C:\Users\filipec.SPI\source\repos\pu9999\Camada.InfraStructure\obj\Debug\net5.0\refint\Camada.InfraStructure.dll
+C:\Users\filipec.SPI\source\repos\pu9999\Camada.InfraStructure\obj\Debug\net5.0\Camada.InfraStructure.pdb
+C:\Users\filipec.SPI\source\repos\pu9999\Camada.InfraStructure\obj\Debug\net5.0\ref\Camada.InfraStructure.dll
